@@ -30,3 +30,5 @@ TARGET_RELEASETOOLS_EXTENSIONS := device/oppo/common
 
 # QCOM Hardware
 BOARD_USES_QCOM_HARDWARE := true
+
+BOARD_HAVE_QCOM_FM := true
